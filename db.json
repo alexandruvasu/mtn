@@ -1,0 +1,13 @@
+{
+  "mountains": [
+    {
+      "id": 0,
+      "name": "Mount Everest",
+      "height": 8849
+    },
+    {
+      "name": "Mount Kilimanjaro",
+      "height": 5895
+    }
+  ]
+}
